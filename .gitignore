@@ -1,0 +1,16 @@
+# project
+*.pyc
+*~
+__pycache__
+myenv
+db.sqlite3
+/static
+.DS_Store
+.vscode
+
+# jupyter
+spd_notebook/.Python
+spd_notebook/bin
+spd_notebook/lib
+spd_notebook/include
+*.csv
